@@ -1,0 +1,29 @@
+_repo: --rimm-isess--talossaN-ytelm--viidess--n-yt-ksess-_15692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kurikka, Matti
+    birthdate: 1863
+    deathdate: 1915
+    gutenberg_agent_id: '5646'
+    url: http://www.gutenberg.org/2009/agents/5646
+    wikipedia: http://fi.wikipedia.org/wiki/Matti_Kurikka
+description: ''
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15692'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: 'Äärimmäisessä talossa
+
+  Näytelmä viidessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/15692
